@@ -12,6 +12,6 @@ package ucr.ac.cr.pruebagit;
 public class Pruebagit {
 
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        System.out.println("Ha haha!!!!");
     }
 }
